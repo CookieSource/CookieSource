@@ -1,7 +1,6 @@
 ## Hi, I am Cookie Source 👋
-<a href="https://github.com/cookiesource">
-  <img align="left" alt="cookiesource's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+<a href="https://discord.gg/E3Peq23">![Discord](https://img.shields.io/discord/472508061513416705?logo=Discord)</a> <a href="https://github.com/login?return_to=%2Fcookiesource">![GitHub followers](https://img.shields.io/github/followers/cookiesource?logo=github&style=plastic)</a>
+
 <br/>
 <br/>
 
