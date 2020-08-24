@@ -13,7 +13,7 @@
 - 💬 Ask me about Linux or any tech related stuff.
 - 📫 How to reach me: [Discord](Cookie Alice#5007)
 - 😄 Pronouns: Cookie/Biscuit
-- ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
+- ⚡ Fun fact: I'm a cookie from another planet that lives among the humans.
 
 
 **Languages and Tools:**  
