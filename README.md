@@ -17,11 +17,13 @@
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<a href="https://kde.org/"><code><img height="20" src="https://avatars1.githubusercontent.com/u/14312869?s=200&v=4"></code></a>
+<a href="https://remmina.org/"><code><img height="20" src="https://raw.githubusercontent.com/FreeRDP/Remmina/master/data/desktop/32x32/apps/org.remmina.Remmina.png"></code> </a>
+<a href="https://www.python.org/"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code></a>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
+<a href="https://www.javascript.com/"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code></a>
+<a href="https://www.gnu.org/software/bash/"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code></a>
 
 <a href="https://github.com/cookiesource">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cookiesource&theme=dark&hide_langs_below=1" />
