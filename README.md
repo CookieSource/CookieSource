@@ -18,6 +18,8 @@
 **Languages and Tools:**  
 
 <a href="https://kde.org/"><code><img height="20" src="https://avatars1.githubusercontent.com/u/14312869?s=200&v=4"></code></a>
+<a href="https://kde.org/plasma-desktop/"><code><img height="20" src="https://kde.org/stuff/clipart/logo/plasma-logo-colorful-3000x3000.png"></code></a>
+<a href="https://wordpress.com/"><code><img height="20" src="https://image.flaticon.com/icons/png/512/174/174881.png"></code></a>
 <a href="https://remmina.org/"><code><img height="20" src="https://raw.githubusercontent.com/FreeRDP/Remmina/master/data/desktop/32x32/apps/org.remmina.Remmina.png"></code> </a>
 <a href="https://www.python.org/"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code></a>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
