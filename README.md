@@ -1,6 +1,6 @@
 ## Hi, I am Cookie Source 👋
 <a href="https://discord.gg/E3Peq23">![Discord](https://img.shields.io/discord/472508061513416705?logo=Discord)</a> <a href="https://github.com/login?return_to=%2Fcookiesource">![GitHub followers](https://img.shields.io/github/followers/cookiesource?logo=github&style=plastic)</a>
-
+![Website](https://img.shields.io/website?down_color=Red&down_message=Offline&up_color=Blue&up_message=Online&url=https%3A%2F%2Fcookiesource.github.io%2F)
 <br/>
 <br/>
 
