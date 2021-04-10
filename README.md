@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on [Privacy Search engine list](https://github.com/CookieSource/Search-Engine-List).
+- 🔭 I’m currently working on setting up my own repositories on Github
 - 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate on [discord](https://discord.gg/GU88ak5).
 - 💬 Ask me about Linux or any tech related stuff.
