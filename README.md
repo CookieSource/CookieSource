@@ -33,14 +33,6 @@
 <a href="https://github.com/cookiesource">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=cookiesource&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> 
 </a>
-<a href="https://github.com/CookieSource/Knight-Transparent">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cookiesource&repo=Knight-Transparent&theme=dark" />
-
-</a>
-<a href="https://github.com/CookieSource/Search-Engine-List">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cookiesource&repo=Search-Engine-List&theme=dark" />
-</a>
-
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
