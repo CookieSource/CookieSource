@@ -1,6 +1,5 @@
 ## Hi, I am Cookie Source 👋
-<a href="https://discord.gg/E3Peq23">![Discord](https://img.shields.io/discord/472508061513416705?logo=Discord)</a>plastic)</a>
-<br/>
+<a href="https://discord.gg/E3Peq23">![Discord](https://img.shields.io/discord/472508061513416705?logo=Discord)</a>
 <br/>
 
 
