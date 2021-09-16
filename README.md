@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning DART
 - 👯 I’m looking to collaborate on [discord](https://discord.gg/GU88ak5)
 - 💬 Ask me about Linux or any tech related stuff
-- 📫 How to reach me: [Discord](Cookie Alice#5007)
+- 📫 How to reach me: [Discord](CookieSource#5007)
 - 😄 Pronouns: Cookie/Biscuit
 - ⚡ Fun fact: I'm a cookie from another planet that lives among the humans
 
