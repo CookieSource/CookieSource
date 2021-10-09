@@ -1,10 +1,14 @@
 ## Hi, I am Cookie Source 👋
-<a href="https://discord.gg/E3Peq23">![Discord](https://img.shields.io/discord/472508061513416705?logo=Discord)</a>
+<a href="https://discord.gg/cU5s6MPpQH">![Discord](https://img.shields.io/discord/472508061513416705?logo=Discord)</a>
+![SourceForge](https://img.shields.io/sourceforge/dt/rebornos)
+![GitHub followers](https://img.shields.io/github/followers/cookiesource?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/rebornoslinux?style=social)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC4A_n9noXrzzU9PCHOfzoBA?style=social)
 <br/>
 
 
 
-- 🔭 I’m currently working on RebornOS
+- 🔭 I’m currently working on [RebornOS](https://rebornos.org)
 - 🌱 I’m currently learning DART
 - 👯 I’m looking to collaborate on [discord](https://discord.gg/GU88ak5)
 - 💬 Ask me about Linux or any tech related stuff
@@ -22,7 +26,6 @@
 <a href="https://remmina.org/"><code><img height="20" src="https://raw.githubusercontent.com/FreeRDP/Remmina/master/data/desktop/32x32/apps/org.remmina.Remmina.png"></code> </a>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<a href="https://www.javascript.com/"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code></a>
 <a href="https://www.gnu.org/software/bash/"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code></a>
 
 
