@@ -1,4 +1,4 @@
-## Hi, I am Cookie Source 👋
+## Hi, I am CookieSource 👋
 <a href="https://discord.gg/cU5s6MPpQH">![Discord](https://img.shields.io/discord/472508061513416705?logo=Discord)</a>
 ![SourceForge](https://img.shields.io/sourceforge/dt/rebornos)
 ![GitHub followers](https://img.shields.io/github/followers/cookiesource?style=social)
