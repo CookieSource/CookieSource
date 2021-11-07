@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [RebornOS](https://rebornos.org)
 - 🌱 I’m currently learning DART
-- 👯 I’m looking to collaborate on [discord](https://discord.gg/GU88ak5)
+- 👯 I’m looking to collaborate on discord or Github
 - 💬 Ask me about Linux or any tech related stuff
 - 📫 How to reach me: [Discord](CookieSource#5007)
 - 😄 Pronouns: Cookie/Biscuit
