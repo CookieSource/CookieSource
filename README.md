@@ -9,8 +9,8 @@
 
 
 - 🔭 I’m currently working on [RebornOS](https://rebornos.org)
-- 🌱 I’m currently learning DART
-- 👯 I’m looking to collaborate on discord or Github
+- 🌱 I’m currently learning DART, Flutter and UI design
+- 👯 I’m looking to collaborate on Discord or Github
 - 💬 Ask me about Linux or any tech related stuff
 - 📫 How to reach me: [Discord](CookieSource#5007)
 - 😄 Pronouns: Cookie/Biscuit
@@ -22,11 +22,14 @@
 <a href="https://kde.org/"><code><img height="20" src="https://avatars1.githubusercontent.com/u/14312869?s=200&v=4"></code></a>
 <a href="https://dart.dev"><code><img height="20" src="https://avatars.githubusercontent.com/u/1609975?s=200&v=4"></code></a>
 <a href="https://kde.org/plasma-desktop/"><code><img height="20" src="https://kde.org/stuff/clipart/logo/plasma-logo-colorful-3000x3000.png"></code></a>
-<a href="https://wordpress.com/"><code><img height="20" src="https://image.flaticon.com/icons/png/512/174/174881.png"></code></a>
+<a href="https://wordpress.com/"><code><img height="20" src="https://cdn-icons-png.flaticon.com/512/174/174881.png"></code></a>
 <a href="https://remmina.org/"><code><img height="20" src="https://raw.githubusercontent.com/FreeRDP/Remmina/master/data/desktop/32x32/apps/org.remmina.Remmina.png"></code> </a>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <a href="https://www.gnu.org/software/bash/"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code></a>
+<a href="https://flutter.dev/"><code><img height="20" src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true"></code></a>
+<a href="https://code.visualstudio.com/"><code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519"></code></a>
+
 
 
 <a href="https://github.com/cookiesource">
