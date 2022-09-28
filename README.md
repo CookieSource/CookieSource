@@ -17,7 +17,35 @@
 
 <details>
   <summary><b>👤&nbsp;&nbsp;About me</b></summary>
-test
+<img src="./images/cookiesource.png" width="" height="" />
+
+Hi I’m Cookiesource I'm a 26 years old IT System administrator.
+
+### Hobbies 
+- Singing /  Music
+- Anime
+- Coding / Programming
+- Table tennis
+- Swimming
+- Server stuff
+- Tinkering & Automation
+
+### Certifications & Courses I finished
+
+- CCNA
+- Microsoft Word 
+- Microsoft Word PRO
+- Microsoft Powerpoint
+- IT Essentials
+- MTA Operating systems
+- MTA Windows server 2012
+- MTA Windows 10
+- Learning Kali Linux
+- Python 2 by **Codeacademy**
+- Multitasking on the command line
+- Game design essentials
+- HTML / CSS by **Codeacademy**
+
   </details>
   <details>
   <summary><b>🔒&nbsp;&nbsp;PGP&nbsp;Public&nbsp;Key</b></summary>
