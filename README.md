@@ -147,7 +147,12 @@ PGP here
 </table>
 
 
-## news post here
+## news posts
+
+<ul>
+    <li><a href=https://rebornos.discourse.group/t/rebornos-is-looking-for-c-developers/734>RebornOS is looking for C developers</a></li><li><a href=https://rebornos.discourse.group/t/website-refresh-new-wiki-maintenance/810>Website Refresh</a></li>
+  </ul>
+<p><a href="https://rebormos.org/news">➡️ More blog posts</a></p>
 
 
 
