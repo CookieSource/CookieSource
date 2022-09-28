@@ -40,49 +40,49 @@ PGP here
       <br>Laptop
     </td>
     <td align="center" width="96">
-      <a href="#">
+      <a href="https://code.visualstudio.com/">
         <img src="./images/visualstudiocode.svg" width="48" height="48" alt="" />
       </a>
       <br>VSCode
     </td>
     <td align="center" width="96">
-      <a href="#">
+      <a href="https://kde.org">
         <img src="./images/kde.svg" width="48" height="48" alt="Community" />
       </a>
       <br>KDE
     </td>
     <td align="center" width="96">
-      <a href="#">
+      <a href="https://kde.org/plasma-desktop/">
         <img src="./images/kdeplasma.svg" width="48" height="48" alt="Desktop environment" />
       </a>
       <br>KDE Plasma
     </td>
     <td align="center" width="96">
-      <a href="#">
+      <a href="https://rebornos.org">
         <img src="./images/rebornos.svg" width="48" height="48" alt="Linux" />
       </a>
       <br>RebornOS
     </td>
     <td align="center" width="96">
-      <a href="#">
+      <a href="https://wordpress.org">
         <img src="./images/wordpress.svg" width="48" height="48" alt="" />
       </a>
       <br>Wordpress
     </td>
     <td align="center" width="96">
-      <a href="#" >
+      <a href="https://flutter.dev" >
         <img src="./images/flutter.svg" width="48" height="48" alt="" />
       </a>
       <br>Flutter
     </td>
     <td align="center" width="96">
-      <a href="#">
+      <a href="https://dart.dev">
         <img src="./images/dart.svg" width="48" height="48" alt="" />
       </a>
       <br>Dart
     </td>
     <td align="center" width="96">
-      <a href="#">
+      <a href="https://remmina.org/">
         <img src="./images/remmina.png" width="48" height="48" alt="" />
       </a>
       <br>Remmina
@@ -96,7 +96,7 @@ PGP here
       <br>HTML/CSS
     </td>
     <td align="center" width="96">
-      <a href="#" >
+      <a href="https://debian.org" >
         <img src="./images/debian.svg" width="48" height="48" alt="" />
       </a>
       <br>Debian
@@ -108,37 +108,37 @@ PGP here
       <br>Cloud servers
     </td>
     <td align="center"  width="96">
-      <a href="#">
+      <a href="https://www.gnu.org/software/bash/">
         <img src="./images/bash.svg" width="48" height="48" alt="" />
       </a>
       <br>Bash
     </td>
     <td align="center" width="96">
-      <a href="#">
+      <a href="https://js.wiki">
         <img src="./images/wikijs.png" width="48" height="48" alt="" />
       </a>
       <br>WikiJS
     </td>
     <td align="center"  width="96">
-      <a href="#">
+      <a href="https://www.postgresql.org/">
         <img src="./images/postgresql.svg" width="48" height="48" alt="" />
       </a>
       <br>Postgresql
     </td>
     <td align="center" width="96">
-      <a href="#" >
+      <a href="https://mediawiki.com" >
         <img src="./images/mediawiki.svg" width="48" height="48" alt="" />
       </a>
       <br>MediaWiki
     </td>
     <td align="center" width="96">
-      <a href="#" >
+      <a href="https://konsole.kde.org/" >
         <img src="./images/konsole.png" width="48" height="48" alt="" />
       </a>
       <br>Konsole
     </td>
     <td align="center" width="96">
-      <a href="#" >
+      <a href="https://figma.com" >
         <img src="./images/figma.svg" width="48" height="48" alt="" />
       </a>
       <br>Figma
