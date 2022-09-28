@@ -21,7 +21,7 @@
 
 Hi I’m Cookiesource I'm a 26 years old IT System administrator.
 
-### Hobbies 
+### 🎙 Hobbies 
 - Singing /  Music
 - Anime
 - Coding / Programming
@@ -30,7 +30,7 @@ Hi I’m Cookiesource I'm a 26 years old IT System administrator.
 - Server stuff
 - Tinkering & Automation
 
-### Certifications & Courses I finished
+### 🎓 Certifications & Courses I finished
 
 - CCNA
 - Microsoft Word 
