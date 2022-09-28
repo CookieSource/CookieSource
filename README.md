@@ -1,10 +1,144 @@
-## Hi, I am CookieSource 👋
+## Hi I'm Cookiesource <img src="https://github.com/CookieSource/CookieSource/blob/master/images/Hello.gif" width="40" height="40" />
 <a href="https://discord.gg/cU5s6MPpQH">![Discord](https://img.shields.io/discord/472508061513416705?logo=Discord)</a>
 ![SourceForge](https://img.shields.io/sourceforge/dt/rebornos)
 ![GitHub followers](https://img.shields.io/github/followers/cookiesource?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/rebornoslinux?style=social)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC4A_n9noXrzzU9PCHOfzoBA?style=social)
 <br/>
+
+
+
+
+
+<h2 align="left" id="macropower-tech">Technology I use</h2> 
+
+> Tools, languages, and other things that I use!
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./images/Laptop.jpg" width="48" height="48" alt="" />
+      </a>
+      <br>Laptop
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/python-original.svg" width="48" height="48" alt="" />
+      </a>
+      <br>VSCode
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/go-flat.svg" width="48" height="48" alt="Community" />
+      </a>
+      <br>KDE
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Desktop environment" />
+      </a>
+      <br>KDE Plasma
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/typescript-original.svg" width="48" height="48" alt="Linux" />
+      </a>
+      <br>RebornOS
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/javascript-original.svg" width="48" height="48" alt="" />
+      </a>
+      <br>Wordpress
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="./img/react-original.svg" width="48" height="48" alt="" />
+      </a>
+      <br>Flutter
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="" />
+      </a>
+      <br>Dart
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/sass-original.svg" width="48" height="48" alt="" />
+      </a>
+      <br>Remmina
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96"> 
+      <a href="#" >
+        <img src="./img/docker-original.svg" width="48" height="48" alt="" />
+      </a>
+      <br>HTML/CSS
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="" />
+      </a>
+      <br>Debian
+    </td>
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="./img/debian-original.svg" width="48" height="48" alt="" />
+      </a>
+      <br>Cloud servers
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/redhat-original.svg" width="48" height="48" alt="" />
+      </a>
+      <br>Bash
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="" />
+      </a>
+      <br>WikiJS
+    </td>
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="./img/mysql-original.svg" width="48" height="48" alt="" />
+      </a>
+      <br>Postgresql
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="" />
+      </a>
+      <br>MediaWiki
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://github.com/cncf/artwork/blob/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="" />
+      </a>
+      <br>Konsole
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="48" height="48" alt="" />
+      </a>
+      <br>Figma
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary><b>🔒&nbsp;&nbsp;PGP&nbsp;Public&nbsp;Key</b></summary>
+  <br/>
+
+```
+PGP here
+```
+</details>
+
+## news post here
 
 
 
@@ -17,29 +151,3 @@
 - ⚡ Fun fact: I'm a cookie from another planet that lives among the humans
 
 
-**Languages and Tools:**  
-
-<a href="https://kde.org/"><code><img height="20" src="https://avatars1.githubusercontent.com/u/14312869?s=200&v=4"></code></a>
-<a href="https://dart.dev"><code><img height="20" src="https://avatars.githubusercontent.com/u/1609975?s=200&v=4"></code></a>
-<a href="https://kde.org/plasma-desktop/"><code><img height="20" src="https://kde.org/stuff/clipart/logo/plasma-logo-colorful-3000x3000.png"></code></a>
-<a href="https://wordpress.com/"><code><img height="20" src="https://cdn-icons-png.flaticon.com/512/174/174881.png"></code></a>
-<a href="https://remmina.org/"><code><img height="20" src="https://raw.githubusercontent.com/FreeRDP/Remmina/master/data/desktop/32x32/apps/org.remmina.Remmina.png"></code> </a>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<a href="https://www.gnu.org/software/bash/"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code></a>
-<a href="https://flutter.dev/"><code><img height="20" src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true"></code></a>
-<a href="https://code.visualstudio.com/"><code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519"></code></a>
-
-
-
-<a href="https://github.com/cookiesource">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cookiesource&theme=dark&hide_langs_below=1" />
-</a>
-<a href="https://github.com/cookiesource">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=cookiesource&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> 
-</a>
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
