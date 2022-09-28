@@ -6,11 +6,12 @@
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC4A_n9noXrzzU9PCHOfzoBA?style=social)
 <br/>
 
-
-
-
-
-<h2 align="left" id="macropower-tech">Technology I use</h2> 
+Hello world start of new introduction
+<img align="right" width="200" height="200" src="https://github.com/CookieSource/CookieSource/blob/master/images/Programming.gif">
+<br> </br>
+<br> </br>
+<br> </br>
+<h2 align="left">Technology I use</h2> 
 
 > Tools, languages, and other things that I use!
 
