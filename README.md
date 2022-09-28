@@ -5,7 +5,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/rebornoslinux?style=social)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC4A_n9noXrzzU9PCHOfzoBA?style=social)
 <br/>
-<img align="right" width="250" height="250" src="https://github.com/CookieSource/CookieSource/blob/master/images/Programming.gif">
+<img align="right" width="300" height="300" src="https://github.com/CookieSource/CookieSource/blob/master/images/Programming.gif">
 - 🔭 I’m currently working on [RebornOS](https://rebornos.org)
 - 🌱 I’m currently learning DART, Flutter and UI design
 - 👯 I’m looking to collaborate on Discord or Github
@@ -13,6 +13,19 @@
 - 📫 How to reach me: [Discord](CookieSource#5007)
 - 😄 Pronouns: Cookie/Biscuit
 - ⚡ Fun fact: I'm a cookie from another planet that lives among the humans
+
+<details>
+  <summary><b>👤&nbsp;&nbsp;About me</b></summary>
+test
+  </details>
+  <details>
+  <summary><b>🔒&nbsp;&nbsp;PGP&nbsp;Public&nbsp;Key</b></summary>
+  <br/>
+
+```
+PGP here
+```
+</details>
 
 <h2 align="left">Technology I use</h2> 
 
@@ -133,14 +146,6 @@
   </tr>
 </table>
 
-<details>
-  <summary><b>🔒&nbsp;&nbsp;PGP&nbsp;Public&nbsp;Key</b></summary>
-  <br/>
-
-```
-PGP here
-```
-</details>
 
 ## news post here
 
