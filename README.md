@@ -19,9 +19,24 @@
   <summary><b>👤&nbsp;&nbsp;About me</b></summary>
 <img src="./images/cookiesource.png" width="" height="" />
 
-Hi I’m Cookiesource I'm a 26 years old IT System administrator.
+I'm a 26 years old IT System administrator.
+  
+You can best describe me as someone who is always looking for the latest technology. I'm passionate, driven and strive to improve my IT and communication skills.
+  
+  <details>
+  <summary><b>🕑 Projects</b></summary>
+    
+**RebornOS**
+I currently work on the RebornOS Project RebornOS is an Arch based Linux distribution with a team of developers, artists and other talented individuals aiming to make Arch Linux as user friendly as possible by providing interface solutions to things you normally have to do in a terminal.<br></br>
+**Wiki**
+I'm an ex Wiki pro contributor and have contributed to several other gaming and technical wikis I currently contribute to the RebornOS Wiki.<br></br>
+**Boot USB** 
+A very old project that no longer exists was created before Medicat DVD came on the market which did the same thing but better.  <br></br>
+</details>
 
-### 🎙 Hobbies 
+ <details>
+  <summary><b>🎙 Hobbies </b></summary>
+  
 - Singing /  Music
 - Anime
 - Coding / Programming
@@ -29,9 +44,11 @@ Hi I’m Cookiesource I'm a 26 years old IT System administrator.
 - Swimming
 - Server stuff
 - Tinkering & Automation
+</details>
 
-### 🎓 Certifications & Courses I finished
-
+<details>
+  <summary><b> 🎓 Certifications & Courses I finished</b></summary>
+  
 - CCNA
 - Microsoft Word 
 - Microsoft Word PRO
@@ -45,7 +62,7 @@ Hi I’m Cookiesource I'm a 26 years old IT System administrator.
 - Multitasking on the command line
 - Game design essentials
 - HTML / CSS by **Codeacademy**
-
+</details>
   </details>
   <details>
   <summary><b>🔒&nbsp;&nbsp;PGP&nbsp;Public&nbsp;Key</b></summary>
