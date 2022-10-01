@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on Discord or Github
 - 💬 Ask me about Linux or any tech related stuff
 - 🏳️‍🌈 I speak English/Dutch/Japanese
-- 📫 How to reach me: [Discord](CookieSource#5007)
+- 📫 How to reach me: Discord: CookieSource#5007
 - 😄 Pronouns: Cookie/Biscuit
 - ⚡ Fun fact: I'm a cookie from another planet that lives among the humans
 
