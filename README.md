@@ -16,7 +16,7 @@
 - ⚡ Fun fact: I'm a cookie from another planet that lives among the humans
 
 <details>
-  <summary><b>👤&nbsp;&nbsp;About me</b></summary>
+  <summary><b>👤&nbsp;&nbsp;About Me</b></summary>
 <img src="./images/cookiesource.png" width="" height="" />
 
 I'm a 26 years old IT System administrator.
@@ -65,8 +65,8 @@ A very old project that no longer exists was created before Medicat DVD came on 
 </details>
   </details>
     <details>
-  <summary><b>📊 Stats</b></summary>
-  <a href="https://www.rebornos.org/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=cookiesource&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cookiesource&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+  <summary><b>📊 Github Profile Stats</b></summary>
+  <a href="https://www.rebornos.org/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=cookiesource&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cookiesource&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
   </details>
   <details>
