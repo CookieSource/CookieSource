@@ -5,7 +5,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/rebornoslinux?style=social)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC4A_n9noXrzzU9PCHOfzoBA?style=social)
 <br/>
-<img align="right" width="300" height="300" src="https://github.com/CookieSource/CookieSource/blob/master/images/Programming.gif">
+<img align="right" width="250" height="250" src="https://github.com/CookieSource/CookieSource/blob/master/images/Programming.gif">
 - 🔭 I’m currently working on [RebornOS](https://rebornos.org)
 - 🌱 I’m currently learning DART, Flutter and UI design
 - 👯 I’m looking to collaborate on Discord or Github
