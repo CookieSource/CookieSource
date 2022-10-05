@@ -218,16 +218,16 @@ gEV7Pyd+kJ6mh33XZxXF6zDlm5ZLq6vYi384lNGYOg==
       <br>Postgresql
     </td>
     <td align="center" width="96">
-      <a href="https://mediawiki.com" >
-        <img src="./images/mediawiki.svg" width="48" height="48" alt="" />
+      <a href="https://www.python.org/">
+        <img src="./images/python.svg" width="48" height="48" alt="" />
       </a>
-      <br>MediaWiki
+      <br>Python
     </td>
     <td align="center" width="96">
-      <a href="https://konsole.kde.org/" >
-        <img src="./images/konsole.png" width="48" height="48" alt="" />
+      <a href="https://www.microsoft.com/en-us/windows" >
+        <img src="./images/windows11.svg" width="48" height="48" alt="" />
       </a>
-      <br>Konsole
+      <br>Windows
     </td>
     <td align="center" width="96">
       <a href="https://figma.com" >
