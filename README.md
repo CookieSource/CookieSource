@@ -239,11 +239,13 @@ gEV7Pyd+kJ6mh33XZxXF6zDlm5ZLq6vYi384lNGYOg==
 </table>
 
 
-## news posts
-
-<ul>
-    <li><a href=https://rebornos.discourse.group/t/rebornos-is-looking-for-c-developers/734>RebornOS is looking for C developers</a></li><li><a href=https://rebornos.discourse.group/t/website-refresh-new-wiki-maintenance/810>Website Refresh</a></li>
-  </ul>
+## Blog
+<!-- feed start -->
+- Oct 25 - [RebornOS ARM beta](https://www.rebornos.org/rebornos-arm-beta/)
+- Mar 29 - [Template](https://www.rebornos.org/template/)
+- Mar 28 - [testing](https://www.rebornos.org/testing/)
+- Mar 09 - [Test post](https://www.rebornos.org/test-post/)
+<!-- feed end -->
 <p><a href="https://rebormos.org/news">➡️ More blog posts</a></p>
 
 
@@ -252,9 +254,3 @@ gEV7Pyd+kJ6mh33XZxXF6zDlm5ZLq6vYi384lNGYOg==
 
 
 
-<!-- feed start -->
-- Oct 25 - [RebornOS ARM beta](https://www.rebornos.org/rebornos-arm-beta/)
-- Mar 29 - [Template](https://www.rebornos.org/template/)
-- Mar 28 - [testing](https://www.rebornos.org/testing/)
-- Mar 09 - [Test post](https://www.rebornos.org/test-post/)
-<!-- feed end -->
