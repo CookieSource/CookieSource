@@ -246,7 +246,7 @@ gEV7Pyd+kJ6mh33XZxXF6zDlm5ZLq6vYi384lNGYOg==
 - Mar 28 - [testing](https://www.rebornos.org/testing/)
 - Mar 09 - [Test post](https://www.rebornos.org/test-post/)
 <!-- feed end -->
-<p><a href="https://rebormos.org/news">➡️ More blog posts</a></p>
+<p><a href="https://rebornos.org/news">➡️ More blog posts</a></p>
 
 
 
