@@ -242,9 +242,6 @@ gEV7Pyd+kJ6mh33XZxXF6zDlm5ZLq6vYi384lNGYOg==
 ## Blog
 <!-- feed start -->
 - Oct 25 - [RebornOS ARM beta](https://www.rebornos.org/rebornos-arm-beta/)
-- Mar 29 - [Template](https://www.rebornos.org/template/)
-- Mar 28 - [testing](https://www.rebornos.org/testing/)
-- Mar 09 - [Test post](https://www.rebornos.org/test-post/)
 <!-- feed end -->
 <p><a href="https://rebornos.org/news">➡️ More blog posts</a></p>
 
