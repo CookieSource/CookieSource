@@ -241,6 +241,7 @@ gEV7Pyd+kJ6mh33XZxXF6zDlm5ZLq6vYi384lNGYOg==
 
 ## Blog
 <!-- feed start -->
+- Dec 18 - [ARM Stable & new sponsor](https://www.rebornos.org/arm-stable-new-sponsor/)
 - Oct 25 - [RebornOS ARM beta](https://www.rebornos.org/rebornos-arm-beta/)
 <!-- feed end -->
 <p><a href="https://rebornos.org/news">➡️ More blog posts</a></p>
