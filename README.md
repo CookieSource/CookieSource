@@ -252,6 +252,7 @@ MhhSS4/DMWayjibQvylxfQ==
 
 ## Blog
 <!-- feed start -->
+- Mar 06 - [New arm support & release Mekotronics support has arrived](https://www.rebornos.org/new-arm-support-release-mekotronics-support-has-arrived/)
 - Jan 24 - [RebornOS ARM new device support (beta)](https://www.rebornos.org/rebornos-arm-new-device-support-beta/)
 - Dec 18 - [ARM Stable & new sponsor](https://www.rebornos.org/arm-stable-new-sponsor/)
 - Oct 25 - [RebornOS ARM beta](https://www.rebornos.org/rebornos-arm-beta/)
