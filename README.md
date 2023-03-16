@@ -12,7 +12,7 @@
 - 💬 Ask me about Linux or any tech related stuff
 - 🏳️‍🌈 I speak English/Dutch/Japanese
 - 📫 How to reach me: Discord: CookieSource#5007
-- 😄 Pronouns: Cookie/Biscuit
+- 😄 Pronouns: Cookie/Any
 - ⚡ Fun fact: I'm a cookie from another planet that lives among the humans
 
 <details>
