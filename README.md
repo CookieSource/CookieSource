@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning DART, Flutter and UI design
 - 👯 I’m looking to collaborate on Discord or Github
 - 💬 Ask me about Linux or any tech related stuff
-- 🏳️‍🌈 I speak English/Dutch & learming JP/ES
+- 🏳️‍🌈 I speak English/Dutch & learning JP/ES
 - 📫 How to reach me: Discord: CookieSource#5007
 - 😄 Pronouns: Cookie/Any
 - ⚡ Fun fact: I'm a cookie from another planet that lives among the humans
