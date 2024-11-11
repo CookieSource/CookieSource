@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on Discord or Github
 - 💬 Ask me about Linux or any tech related stuff
 - 🏳️‍🌈 I speak English/Dutch & learning JP/ES
-- 📫 How to reach me: Discord: CookieSource#5007
+- 📫 How to reach me: Discord: CookieSource
 - 😄 Pronouns: Cookie/Any
 - ⚡ Fun fact: I'm a cookie from another planet that lives among the humans
 
@@ -19,7 +19,7 @@
   <summary><b>👤&nbsp;&nbsp;About Me</b></summary>
 <img src="./images/cookiesource.png" width="" height="" />
 
-I'm a 26 years old IT System administrator.
+I'm an IT System administrator.
   
 You can best describe me as someone who is always looking for the latest technology. I'm passionate, driven and strive to improve my IT and communication skills.
   
@@ -44,24 +44,6 @@ A very old project that no longer exists was created before Medicat DVD came on 
 - Swimming
 - Server stuff
 - Tinkering & Automation
-</details>
-
-<details>
-  <summary><b> 🎓 Certifications & Courses I finished</b></summary>
-  
-- CCNA
-- Microsoft Word 
-- Microsoft Word PRO
-- Microsoft Powerpoint
-- IT Essentials
-- MTA Operating systems
-- MTA Windows server 2012
-- MTA Windows 10
-- Learning Kali Linux
-- Python 2 by **Codeacademy**
-- Multitasking on the command line
-- Game design essentials
-- HTML / CSS by **Codeacademy**
 </details>
   </details>
     <details>
