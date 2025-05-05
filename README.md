@@ -1,5 +1,5 @@
 ## Hi I'm Cookiesource <img src="https://github.com/CookieSource/CookieSource/blob/master/images/Hello.gif" width="40" height="40" />
-<a href="https://discord.gg/cU5s6MPpQH">![Discord](https://img.shields.io/discord/472508061513416705?logo=Discord)</a>
+<a href="https://discord.gg/8UYCjc9M8D">![Discord](https://img.shields.io/discord/472508061513416705?logo=Discord)</a>
 ![SourceForge](https://img.shields.io/sourceforge/dt/rebornos)
 ![GitHub followers](https://img.shields.io/github/followers/cookiesource?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/rebornoslinux?style=social)
@@ -7,7 +7,7 @@
 <br/>
 <img align="right" width="250" height="250" src="https://github.com/CookieSource/CookieSource/blob/master/images/Programming.gif">
 - 🔭 I’m currently working on [RebornOS](https://rebornos.org)
-- 🌱 I’m currently learning DART, Flutter and UI design
+- 🌱 I’m currently learning more about DevOPS
 - 👯 I’m looking to collaborate on Discord or Github
 - 💬 Ask me about Linux or any tech related stuff
 - 🏳️‍🌈 I speak English/Dutch & learning JP/ES
