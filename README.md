@@ -149,10 +149,10 @@ A very old project that no longer exists was created before Medicat DVD came on 
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="https://www.microsoft.com/en-us/windows" >
-        <img src="./images/windows11.svg" width="48" height="48" alt="" />
+      <a href="https://github.com/PowerShell/PowerShell" >
+        <img src="./images/powershell.svg" width="48" height="48" alt="" />
       </a>
-      <br>Windows
+      <br>PowerShell
     </td>
     <td align="center" width="96">
       <a href="https://figma.com" >
