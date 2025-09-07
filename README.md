@@ -2,13 +2,13 @@
 
 <img align="right" width="250" height="250" src="https://github.com/CookieSource/CookieSource/blob/master/images/Programming.gif">
 
-- 🔭 I’m currently working on [RebornOS](https://rebornos.org)
+- 🔭 I’m currently working on [AerynOS](https://aerynos.com/)
 - 🌱 I’m currently learning more about DevOPS
 - 👯 I’m looking to collaborate on Discord or Github
 - 💬 Ask me about Linux or any tech related stuff
-- 🏳️‍🌈 I speak English/Dutch & learning JP/ES
+- 🌍 I speak English/Dutch & learning JP/ES
 - 📫 How to reach me: Discord: CookieSource
-- 😄 Pronouns: Cookie/Any
+- 🏳️‍🌈 Pronouns: Cookie/Any
 - ⚡ Fun fact: I'm a cookie from another planet that lives among the humans
 
 <details>
