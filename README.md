@@ -1,7 +1,7 @@
 ## Hi I'm Cookiesource <img src="https://github.com/CookieSource/CookieSource/blob/master/images/Hello.gif" width="40" height="40" />
 
-<br/>
 <img align="right" width="250" height="250" src="https://github.com/CookieSource/CookieSource/blob/master/images/Programming.gif">
+
 - 🔭 I’m currently working on [RebornOS](https://rebornos.org)
 - 🌱 I’m currently learning more about DevOPS
 - 👯 I’m looking to collaborate on Discord or Github
