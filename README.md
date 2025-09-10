@@ -13,21 +13,25 @@
 
 <details>
   <summary><b>👤&nbsp;&nbsp;About Me</b></summary>
-<img src="./images/cookiesource.png" width="" height="" />
-
 I'm an IT System administrator.
-  
-You can best describe me as someone who is always looking for the latest technology. I'm passionate, driven and strive to improve my IT and communication skills.
+
+
+You can best describe me as someone who is always looking for the latest technology and developments.
   
   <details>
   <summary><b>🕑 Projects</b></summary>
+    <br>
     
-**RebornOS**
-I currently work on the RebornOS Project RebornOS is an Arch based Linux distribution with a team of developers, artists and other talented individuals aiming to make Arch Linux as user friendly as possible by providing interface solutions to things you normally have to do in a terminal.<br></br>
-**Wiki**
-I'm an ex Wiki pro contributor and have contributed to several other gaming and technical wikis I currently contribute to the RebornOS Wiki.<br></br>
-**Boot USB** 
-A very old project that no longer exists was created before Medicat DVD came on the market which did the same thing but better.  <br></br>
+**Pkgbridge**<br>
+A rust based CLI tool to seamlessly integrate Distrobox into your host environment.
+
+**AerynOS**<br>
+I currently work on AerynOS. Contributing packages and fixes
+
+**RebornOS**<br>
+Old RebornOS Project leader RebornOS is an Arch based Linux distribution with a team of developers, artists and other talented individuals aiming to make Arch Linux as user friendly as possible by providing interface solutions to things you normally have to do in a terminal.<br></br>
+**Wiki**<br>
+I'm an ex Wiki pro contributor and have contributed to several other gaming and technical wikis<br></br>
 </details>
 
  <details>
