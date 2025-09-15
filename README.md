@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on [AerynOS](https://aerynos.com/)
 - 🌱 I’m currently learning more about DevOPS
 - 👯 I’m looking to collaborate on Discord or Github
-- 💬 Ask me about Linux or any tech related stuff
+- 💬 Ask me about Linux or any tech related topic
 - 🌍 I speak English/Dutch & learning JP/ES
 - 📫 How to reach me: Discord: CookieSource
 - 🏳️‍🌈 Pronouns: Cookie/Any
