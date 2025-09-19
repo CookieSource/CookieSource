@@ -79,7 +79,7 @@ I'm an ex Wiki pro contributor and have contributed to several other gaming and 
       <br>KDE Plasma
     </td>
     <td align="center" width="96">
-      <a href="https://aerynos.org">
+      <a href="https://aerynos.com">
         <img src="./images/aerynos.svg" width="48" height="48" alt="Linux" />
       </a>
       <br>AerynOS
