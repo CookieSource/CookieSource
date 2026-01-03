@@ -21,12 +21,13 @@ You can best describe me as someone who is always looking for the latest technol
   <details>
   <summary><b>🕑 Projects</b></summary>
     <br>
-    
-**Pkgbridge**<br>
-A rust based CLI tool to seamlessly integrate Distrobox into your host environment.
+
 
 **AerynOS**<br>
 I currently work on AerynOS. Contributing packages and fixes
+
+**Pkgbridge**<br>
+A rust based CLI tool to seamlessly integrate Distrobox into your host environment.
 
 **RebornOS**<br>
 Old RebornOS Project leader RebornOS is an Arch based Linux distribution with a team of developers, artists and other talented individuals aiming to make Arch Linux as user friendly as possible by providing interface solutions to things you normally have to do in a terminal.<br></br>
