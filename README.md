@@ -8,7 +8,7 @@
 - 💬 Ask me about Linux or any tech related topic
 - 🌍 I speak English/Dutch & learning JP/ES
 - 📫 How to reach me: Discord: CookieSource
-- 🏳️‍🌈 Pronouns: Cookie/Any
+- 🏳️‍🌈 Pronouns: Cookie/Her
 - ⚡ Fun fact: I'm a cookie from another planet that lives among the humans
 
 <details>
