@@ -57,7 +57,7 @@ I'm an ex Wiki pro contributor and have contributed to several other gaming and 
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#">
+      <a href="https://psref.lenovo.com/Product/ThinkPad/ThinkPad_L13_2_in_1_Gen_5_Intel">
         <img src="./images/laptop.png" width="48" height="48" alt="" />
       </a>
       <br>Laptop
