@@ -88,7 +88,7 @@ I'm an ex Wiki pro contributor and have contributed to several other gaming and 
     </td>
     <td align="center" width="96">
       <a href="https://gohugo.io/">
-        <img src="./images/hugo" width="48" height="48" alt="" />
+        <img src="./images/hugo.svg" width="48" height="48" alt="" />
       </a>
       <br>Hugo
     </td>
@@ -100,7 +100,7 @@ I'm an ex Wiki pro contributor and have contributed to several other gaming and 
     </td>
     <td align="center" width="96">
       <a href="https://saltproject.io">
-        <img src="./images/salt" width="48" height="48" alt="" />
+        <img src="./images/salt.svg" width="48" height="48" alt="" />
       </a>
       <br>Salt
     </td>
