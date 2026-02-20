@@ -87,10 +87,10 @@ I'm an ex Wiki pro contributor and have contributed to several other gaming and 
       <br>AerynOS
     </td>
     <td align="center" width="96">
-      <a href="https://wordpress.org">
-        <img src="./images/wordpress.svg" width="48" height="48" alt="" />
+      <a href="https://gohugo.io/">
+        <img src="./images/hugo" width="48" height="48" alt="" />
       </a>
-      <br>Wordpress
+      <br>Hugo
     </td>
     <td align="center" width="96">
       <a href="https://www.rust-lang.org/" >
@@ -99,10 +99,10 @@ I'm an ex Wiki pro contributor and have contributed to several other gaming and 
       <br>Rust
     </td>
     <td align="center" width="96">
-      <a href="https://slint.dev">
-        <img src="./images/slint.svg" width="48" height="48" alt="" />
+      <a href="https://saltproject.io">
+        <img src="./images/salt" width="48" height="48" alt="" />
       </a>
-      <br>Slint
+      <br>Salt
     </td>
     <td align="center" width="96">
       <a href="https://tabby.sh/">
@@ -149,10 +149,10 @@ I'm an ex Wiki pro contributor and have contributed to several other gaming and 
       <br>Ansible
     </td>
     <td align="center" width="96">
-      <a href="https://www.python.org/">
-        <img src="./images/python.svg" width="48" height="48" alt="" />
+      <a href="https://www.open-scap.org">
+        <img src="./images/openscap.png" width="48" height="48" alt="" />
       </a>
-      <br>Python
+      <br>Openscap
     </td>
     <td align="center" width="96">
       <a href="https://github.com/PowerShell/PowerShell" >
@@ -161,10 +161,10 @@ I'm an ex Wiki pro contributor and have contributed to several other gaming and 
       <br>PowerShell
     </td>
     <td align="center" width="96">
-      <a href="https://figma.com" >
-        <img src="./images/figma.svg" width="48" height="48" alt="" />
+      <a href="https://www.uyuni-project.org">
+        <img src="./images/uyuni.png" width="48" height="48" alt="" />
       </a>
-      <br>Figma
+      <br>Uyuni
     </td>
   </tr>
 </table>
