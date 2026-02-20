@@ -137,10 +137,10 @@ I'm an ex Wiki pro contributor and have contributed to several other gaming and 
       <br>Fish
     </td>
     <td align="center" width="96">
-      <a href="https://js.wiki">
-        <img src="./images/wikijs.png" width="48" height="48" alt="" />
+      <a href="https://starlight.astro.build">
+        <img src="./images/starlight.webp" width="48" height="48" alt="" />
       </a>
-      <br>WikiJS
+      <br>Astro Starlight
     </td>
     <td align="center"  width="96">
       <a href="https://docs.ansible.com/">
