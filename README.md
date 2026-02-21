@@ -87,10 +87,10 @@ I'm an ex Wiki pro contributor and have contributed to several other gaming and 
       <br>Hugo
     </td>
     <td align="center" width="96">
-      <a href="https://www.rust-lang.org/" >
-        <img src="./images/rust.svg" width="48" height="48" alt="" />
+      <a href="https://darkreader.org/" >
+        <img src="./images/darkreader.svg" width="48" height="48" alt="" />
       </a>
-      <br>Rust
+      <br>Dark Reader
     </td>
     <td align="center" width="96">
       <a href="https://saltproject.io">
