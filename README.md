@@ -3,9 +3,6 @@
 <img align="right" width="250" height="250" src="https://github.com/CookieSource/CookieSource/blob/master/images/Programming.gif">
 
 - 🔭 I’m currently working on [AerynOS](https://aerynos.com/)
-- 🌱 I’m currently learning more about DevOPS
-- 👯 I’m looking to collaborate on Discord or Github
-- 💬 Ask me about Linux or any tech related topic
 - 🌍 I speak English/Dutch & learning JP/ES
 - 📫 How to reach me: Discord: CookieSource
 - 🏳️‍🌈 Pronouns: Cookie/Her
@@ -25,9 +22,6 @@ You can best describe me as someone who is always looking for the latest technol
 
 **AerynOS**<br>
 I actively contribute to AerynOS by maintaining packages, implementing fixes, writing documentation, and being deeply involved across all aspects of the project.
-
-**Pkgbridge**<br>
-A rust based CLI tool to seamlessly integrate Distrobox into your host environment.
 
 **RebornOS**<br>
 Old RebornOS Project leader RebornOS is an Arch based Linux distribution with a team of developers, artists and other talented individuals aiming to make Arch Linux as user friendly as possible by providing interface solutions to things you normally have to do in a terminal.<br></br>
