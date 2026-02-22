@@ -6,7 +6,7 @@
 - 🌍 I speak English/Dutch & learning JP/ES
 - 📫 How to reach me: Discord: CookieSource
 - 🎮 Favorite games is Persona 3 portable & Baldurs gate 3
-- 🎤 Metal vocalist
+- 🎤 Vocalist
 - 🏳️‍🌈 Pronouns: Cookie/Her
 - ⚡ Fun fact: I'm a cookie from another planet that lives among the humans
 
