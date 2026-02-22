@@ -5,8 +5,13 @@
 - 🔭 I’m currently working on [AerynOS](https://aerynos.com/)
 - 🌍 I speak English/Dutch & learning JP/ES
 - 📫 How to reach me: Discord: CookieSource
+- 🎮 Favorite games is Persona 3 portable & Baldurs gate 3
+- 🎤 Metal vocalist
 - 🏳️‍🌈 Pronouns: Cookie/Her
 - ⚡ Fun fact: I'm a cookie from another planet that lives among the humans
+
+<br>
+
 
 <details>
   <summary><b>👤&nbsp;&nbsp;About Me</b></summary>
@@ -38,10 +43,14 @@ I'm an ex Wiki pro contributor and have contributed to several other gaming and 
 - Coding / Programming
 - Table tennis
 - Swimming
+- Homelab
 - Server stuff
 - Tinkering & Automation
 </details>
   </details>
+  
+## Contributions 
+<img align="" width="" height="" src="/images/spaceshooter.gif">
 
 
 <h2 align="left">Technology I use</h2> 
