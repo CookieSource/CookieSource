@@ -5,10 +5,10 @@
 - 🔭 I’m currently working on [AerynOS](https://aerynos.com/)
 - 🌍 I speak English/Dutch & learning JP/ES
 - 📫 How to reach me: Discord: CookieSource
-- 🎮 Favorite games is Persona 3 portable & Baldurs gate 3
+- 🎮 Favorite games are Persona 3 portable & Baldurs gate 3
 - 🎤 Vocalist
 - 🏳️‍🌈 Pronouns: Cookie/Her
-- ⚡ Fun fact: I'm a cookie from another planet that lives among the humans
+- ⚡ Fun fact: I'm a cookie from another planet that lives amongst the humans
 
 <br>
 
