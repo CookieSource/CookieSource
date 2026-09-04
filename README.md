@@ -25,8 +25,8 @@ You can best describe me as someone who is always looking for the latest technol
     <br>
 
 
-**AerynOS**<br>
-I actively contribute to AerynOS by maintaining packages, implementing fixes, writing documentation, and being deeply involved across all aspects of the project.
+**aerynOS**<br>
+I actively contribute to aerynOS by maintaining packages, implementing fixes, writing documentation, and being deeply involved across all aspects of the project.
 
 **RebornOS**<br>
 Old RebornOS Project leader RebornOS is an Arch based Linux distribution with a team of developers, artists and other talented individuals aiming to make Arch Linux as user friendly as possible by providing interface solutions to things you normally have to do in a terminal.<br></br>
@@ -87,7 +87,7 @@ I'm an ex Wiki pro contributor and have contributed to several other gaming and 
       <a href="https://aerynos.com">
         <img src="./images/aerynos.svg" width="48" height="48" alt="Linux" />
       </a>
-      <br>AerynOS
+      <br>aerynOS
     </td>
     <td align="center" width="96">
       <a href="https://gohugo.io/">
