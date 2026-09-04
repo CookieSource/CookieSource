@@ -1,4 +1,4 @@
-## Hi I'm Cookiesource <img src="https://github.com/CookieSource/CookieSource/blob/master/images/Hello.gif" width="40" height="40" />
+## Hi I'm CookieSource <img src="https://github.com/CookieSource/CookieSource/blob/master/images/Hello.gif" width="40" height="40" />
 
 <img align="right" width="250" height="250" src="https://github.com/CookieSource/CookieSource/blob/master/images/Programming.gif">
 
