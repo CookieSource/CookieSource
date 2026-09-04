@@ -2,7 +2,7 @@
 
 <img align="right" width="250" height="250" src="https://github.com/CookieSource/CookieSource/blob/master/images/Programming.gif">
 
-- 🔭 I’m currently working on [AerynOS](https://aerynos.com/)
+- 🔭 I’m currently working on [aerynOS](https://aerynos.com/)
 - 🌍 I speak English/Dutch & learning JP/ES
 - 📫 How to reach me: Discord: CookieSource
 - 🎮 Favorite games are Persona 3 portable & Baldurs gate 3
